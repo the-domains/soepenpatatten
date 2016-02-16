@@ -2,16 +2,16 @@
     <channel>
         <title><![CDATA[Soep & patatten]]></title>
         <description><![CDATA[Soep & patatten]]></description>
-        <link>http://github.com/dylang/node-rss</link>
+        <link>http://soepenpatatten.com/</link>
         <generator>The Grid</generator>
-        <lastBuildDate>Thu, 07 Jan 2016 12:12:05 GMT</lastBuildDate>
-        <atom:link href="undefinedrss.xml" rel="self" type="application/rss+xml"/>
+        <lastBuildDate>Tue, 16 Feb 2016 11:00:31 GMT</lastBuildDate>
+        <atom:link href="http://soepenpatatten.com/rss.xml" rel="self" type="application/rss+xml"/>
         <item>
-            <title><![CDATA[No title]]></title>
-            <description><![CDATA[<p>Welkom!</p>]]></description>
-            <link>undefinede8d18952-3175-4aca-af58-b371367b137c/index.html</link>
+            <title><![CDATA[Tussen soep en patatten is er tijd in overvloed]]></title>
+            <description><![CDATA[<h1>Tussen soep en patatten is er tijd in overvloed</h1>]]></description>
+            <link>http://soepenpatatten.com/e8d18952-3175-4aca-af58-b371367b137c/index.html</link>
             <guid isPermaLink="false">e8d18952-3175-4aca-af58-b371367b137c</guid>
-            <pubDate>Thu, 07 Jan 2016 12:12:05 GMT</pubDate>
+            <pubDate>Tue, 16 Feb 2016 11:00:27 GMT</pubDate>
         </item>
     </channel>
 </rss>
